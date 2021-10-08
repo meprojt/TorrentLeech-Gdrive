@@ -5,5 +5,5 @@ hachoir
 Pillow
 https://github.com/Dineshkarthik/telegram_media_downloader/archive/refs/heads/master.zip
 tgcrypto
-git+https://github.com/FaArIsH/youtube-dl
+git+https://github.com/ytdl-org/youtube-dl
 hurry.filesize
